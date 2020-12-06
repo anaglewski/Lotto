@@ -1,0 +1,13 @@
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.exe
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.deps.json
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.json
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.runtimeconfig.dev.json
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.dll
+D:\Repository\Lotto\Lotto\bin\Debug\netcoreapp3.1\Lotto.pdb
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.csprojAssemblyReference.cache
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfoInputs.cache
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.AssemblyInfo.cs
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.csproj.CoreCompileInputs.cache
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.dll
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.pdb
+D:\Repository\Lotto\Lotto\obj\Debug\netcoreapp3.1\Lotto.genruntimeconfig.cache
